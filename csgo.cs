@@ -17,8 +17,8 @@ namespace hazedumper
         public const Int32 m_OriginalOwnerXuidLow = 0x31D0;
         public const Int32 m_SurvivalGameRuleDecisionTypes = 0x1328;
         public const Int32 m_SurvivalRules = 0xD00;
-        public const Int32 m_aimPunchAngle = 0x303C;
-        public const Int32 m_aimPunchAngleVel = 0x3048;
+        public const Int32 m_aimPunchAngle = 0x70;
+        public const Int32 m_aimPunchAngleVel = 0x7C;
         public const Int32 m_angEyeAnglesX = 0x117D0;
         public const Int32 m_angEyeAnglesY = 0x117D4;
         public const Int32 m_bBombDefused = 0x29C0;
